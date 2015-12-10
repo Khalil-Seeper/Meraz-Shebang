@@ -1,0 +1,186 @@
+body {
+	/*font-family: 'Marck Script', cursive;*/
+	background-color: #9AE6CD;
+	font-family: 'Cinzel', cursive;
+}
+nav {
+	margin-bottom: 32px;
+	background-color: #B29E7B;
+	height: 70px;
+}
+nav li a {
+    height: 70px;
+    line-height: 70px;
+    font-family: 'Cinzel';
+}
+nav li a, footer a {
+	color: #fff;
+    transition: color 0.3s ease-in-out;
+    text-align: center !important;
+    
+}
+nav li a:hover, footer a:hover {
+	color: black;
+}
+
+
+nav ul a {
+font-size: 1.3em;
+}
+
+
+.brand-logo {
+	/*-webkit-text-stroke: 2px #638F7C;*/
+	/*text-stroke: 2px #638F7C;*/
+	font-family: 'Cinzel', cursive;
+	font-size: 3.0em !important; 
+	color: #7BB29B;
+	text-align: center;
+	padding: 6px;
+    transition: color 0.3s ease-in-out;
+    line-height: 70px !important;
+}
+.brand-logo:hover {
+	color: black;
+	font-size: 1.8em;
+	font:bold;
+	text-transform: bold;
+	
+}
+
+
+.brand-logo
+{
+    text-shadow: 1.2px 1.2px black;
+    }
+
+.first-row.row .info-card {
+	text-align: center;
+	height: 235px;
+}
+.first-row .card-content {
+	text-align: center;
+	height: 100%;
+	padding: 8px;
+}
+.first-row .card-content .card-title {
+	line-height: 1.2em;
+
+}
+
+.first-row .card-content .card-title a :hover {
+	color: black;
+	
+
+}
+
+.first-row .card-content .card-title a {
+	color: black;
+}
+.second-row h1 {
+	font-size: 2.2em;
+	font-style: italic;
+	margin-top: 0;
+	text-align: center;
+}
+.card {
+	background-color: white;
+	border-radius: 15px;
+}
+.card .card-image img {
+	border-radius: 15px 15px 0 0;
+	min-height: 200px;
+}
+.container {
+	width: 85% !important;
+}
+.facebook-wrapper {
+	text-align: center;
+}
+
+.page-footer {
+	background-color: #B29E7B;
+
+}
+
+.card-reveal{ 
+border-radius: 15px;
+}
+
+
+.card.blue-grey.darken-1.info-card {
+	font-size: 20px;
+	background-color: #B29E7B;
+	color: black;
+}
+
+.nav-wrapper:hover {
+	color: black !important;
+}
+
+.animated pulse infinite {
+	font: bolder;
+	font-size: 3em;
+	color: black !important;
+	padding-top: 80px;
+}
+
+.card.card-title: {
+	color: black !important;
+	font-style: bold;
+	font-size: 12px !important;
+}
+
+
+footer.page-footer {
+	background-color: #B29E7B;
+	font-family: 'Cinzel', cursive;
+	
+}
+
+footer.page-footer:hover {
+	background-color: #B29E7B;
+	transition: color 0.3s ease-in-out;
+	
+}
+
+.card-content.white-text {
+	background-color: #B29E7B;
+	font: black;
+}
+
+.card-content.white-text:hover {
+	color: black !important;
+
+}
+.grey-text.text-lighten-4:hover {
+	color: black !important;
+}
+
+.card-content {
+	font-size: 18px;
+}
+
+.footer-copyright {
+	font-size: 24px;
+	text-align: center;
+}
+
+.footer-copyright:hover {
+	text-align: center;
+}
+
+.h5 {
+	text-shadow:1.2px 1.2px black;
+}
+#modal1 img {
+	max-width: 100%;
+}
+
+/*#modal2 img {*/
+	/*max-width: 100%;*/
+}
+
+.ceena {
+	width: auto:;
+}
